@@ -16,6 +16,17 @@
 
 ---
 
+### 🔤 Most Used Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 - **Languages:**  
@@ -23,7 +34,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
   ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-  
+
 - **Blockchain Frameworks & SDKs:**  
   ![Solana Web3.js](https://img.shields.io/badge/-Solana%20Web3.js-3a0ca3?style=flat&logo=solana&logoColor=white)
   ![Anchor](https://img.shields.io/badge/-Anchor-E5007D?style=flat&logo=anchor&logoColor=white)
