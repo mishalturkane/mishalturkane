@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Blockchain Engineer | 💻 Rust & TypeScript Dev | 🌐 Web3 Native <br>
-  🛠️ Building on Solana • Stellar • Neox Blockchain • EVM Chains
+  🛠️ Building on Solana • Stellar • Ethereum 🛠️
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - 🧑‍💻 I'm a passionate **Blockchain Developer** with a focus on **decentralized applications**, **smart contracts**, and **Web3 infrastructure**.
 - 💡 Always exploring new protocols and building tools for the next-gen internet.
-- ✨ Active contributor in the **Solana**, **Stellar (Soroban)**, and **Neox** ecosystems.
 - 🔗 I love turning complex systems into **clean, readable code**.
 
 ---
@@ -45,15 +44,6 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
   ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css)
-
----
-
-### 🔥 Current Projects
-
-- 🕹️ **Solana Sumo** – A smart contract-based game powered by Solana + Anchor  
-- 🌍 **MONB** – Multiverse of Neox Blockchain: Web-based wallet, faucet, token minting & NFT tools  
-- 💫 **Mellera** – NFT Liquidation Engine on Solana  
-- 🌐 **Stellar SDK Blogs & Threads** – Contributing to the Stellar ecosystem with technical + non-tech content
 
 ---
 
